@@ -1,8 +1,9 @@
 {
+  "homepage": "https://JOKER-NISHANTH.github.io/React-Admin-Page",
   "name": "BlackShopAdmin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joker-nishanth.github.io/React-Admin-Page",
+
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/data-grid": "^4.0.0-alpha.29",
